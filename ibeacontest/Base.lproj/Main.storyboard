@@ -5,7 +5,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
     </dependencies>
     <scenes>
-        <!--Item 2-->
+        <!--leave-->
         <scene sceneID="O22-ry-s1C">
             <objects>
                 <viewController id="xAj-7c-Nnf" sceneMemberID="viewController">
@@ -18,13 +18,13 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item 2" id="Jq7-0k-muc"/>
+                    <tabBarItem key="tabBarItem" title="leave" id="Jq7-0k-muc"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bSE-zl-nfm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="998" y="1485"/>
         </scene>
-        <!--Item 1-->
+        <!--near-->
         <scene sceneID="pb2-NW-7Up">
             <objects>
                 <viewController id="ZSV-Pf-ecn" sceneMemberID="viewController">
@@ -35,17 +35,9 @@
                     <view key="view" contentMode="scaleToFill" id="6fQ-bL-Aon">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6of-sD-Ncc">
-                                <rect key="frame" x="125" y="509" width="42" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item 1" id="PRL-4M-7aB"/>
+                    <tabBarItem key="tabBarItem" title="near" id="PRL-4M-7aB"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AbV-b0-GML" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
